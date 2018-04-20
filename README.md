@@ -23,3 +23,8 @@ Robots-txt.txt file specifies whether certain user agents can or cannot access p
 
 ### 3. whois.txt
 Gives the complete details of the website like the Admin's and Registrant's details etc.
+
+## Reference
+### thenewboston
+
+https://www.youtube.com/watch?v=YNzkGqcggw0&list=PL6gx4Cwl9DGBuWk2MR-drcaZAh8hdRUHq
