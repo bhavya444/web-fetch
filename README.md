@@ -1,2 +1,4 @@
 # web-fetch
-Acess a Website and extract useful information of it. Built using Python.
+A Python mini-project used to acess a Website and extract useful information of it. 
+
+![alt text](screenshots/filename.png)
